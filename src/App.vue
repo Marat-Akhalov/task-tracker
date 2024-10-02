@@ -4,6 +4,7 @@ import TheHeader from "./components/layout/TheHeader.vue";
 
 <template>
   <TheHeader title="Task Tracker App" />
+  <RouterView />
 </template>
 
 <style scoped></style>
